@@ -1,1 +1,1 @@
-# -2-1-JAVA-grammer
+# 2학년 1학기 JAVA-grammer
